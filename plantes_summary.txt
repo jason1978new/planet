@@ -1,0 +1,3 @@
+Mars= hot planet
+pluto= a cold planet
+
