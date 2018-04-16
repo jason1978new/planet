@@ -1,3 +1,4 @@
 Mars= hot planet
 pluto= a cold planet
 
+set mars= hot planet???
